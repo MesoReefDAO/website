@@ -8,4 +8,4 @@
 </div>
 
 
-This is the repo for the [MesoReefDAO](https://linktr.ee/mesoreefdao) website, a resource for the MesoReefDAO community. The site's purpose is to _"Establishment of collaborative networks and a unifying entity in the field of using DeSci tools, Web3, and models of regenerative cryptoecosystems within the scientific community, specifically focused on the conservation of coral reefs at a regional level.""_ - read more about what this means [here](https://www.notion.so/mesoreefdao/Meso-Reef-DAO-861af9626bcf41d792487dcbfe1f4ae8).
+This is the repo for the [MesoReefDAO](https://linktr.ee/mesoreefdao) website, a resource for the MesoReefDAO community. The site's purpose is to _"Establishment of collaborative networks and a unifying entity in the field of using DeSci tools, Web3, and models of regenerative cryptoecosystems within the scientific community and stakeholders, specifically focused on the conservation of coral reefs at a regional level.""_ - read more about what this means [here](https://www.notion.so/mesoreefdao/Meso-Reef-DAO-861af9626bcf41d792487dcbfe1f4ae8).
